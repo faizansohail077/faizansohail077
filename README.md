@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faizansohail077
-- 👀 I’m interested in Web and App Development
+- 👀 I’m Web and App Developer
 - 🌱 I’m currently learning JAMSTACK
 - 💞️ I’m looking to collaborate on new projects
 
